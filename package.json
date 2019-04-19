@@ -5,8 +5,7 @@
     "dev": "next",
     "build": "next build",
     "preexport": "npm run build",
-    "export": "next export",
-    "deploy": "npm run export"
+    "export": "next export"
   },
   "dependencies": {
     "next": "^8.1.0",
